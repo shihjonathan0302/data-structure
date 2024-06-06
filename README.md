@@ -20,16 +20,6 @@
 ## 作業連結區
 >* 作業1
 >    + [CSV資料的比對](https://github.com/shihjonathan0302/PL/blob/main/Python_作業1.ipynb)
->* 作業2
->    + [JSON輸入dict以及資料的交叉比較](https://github.com/shihjonathan0302/PL/blob/main/Python_作業2.ipynb)
->* 作業3
->    + [網路爬蟲](https://github.com/shihjonathan0302/PL/blob/main/Python_作業3.ipynb)
->* 作業4
->    + [文字探勘分析](https://github.com/shihjonathan0302/PL/blob/main/Python_作業4.ipynb)
->    + [Medium教學](https://medium.com/@jonathanshih_10910/台北市可用的街頭展演空間-c7f9fe3fd6d1)
->* 作業5
->    + [文本共現分析](https://github.com/shihjonathan0302/PL/blob/main/Python_作業5.ipynb)
->    + [Medium教學](https://medium.com/@jonathanshih_10910/街頭展演空間-a6fe98b3216c)
 ## 專題連結區
 >*   [「時間管理大師」簡報](https://www.canva.com/design/DAFTevxdOJU/BmMPWUp7GXiSUIrvhN1HbQ/view?utm_content=DAFTevxdOJU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 >*   [Figma呈現](https://www.figma.com/proto/m9mNtW9XAqA1BekJqKzIre/time-master?node-id=0%3A1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=6%3A17)
