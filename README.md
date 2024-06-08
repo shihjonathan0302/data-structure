@@ -10,7 +10,7 @@
 >    + [堆疊（Stack）、佇列（Queue、陣列（Array）、鏈結串列（Linked List）](https://docs.google.com/presentation/d/1E356joF2_dOmema7ki1Fh5rJ2l87XD-QU7xwpk_cbTY/edit#slide=id.p)
 >    + [樹（Tree）、圖（Graph）、堆積（Heap）、雜湊表（Hash table）](https://docs.google.com/presentation/d/1vwAhugIA8sGYY335p7dOT2ksgsXzp9ofk44BS7vOpy4/edit#slide=id.p) 
 >* 課堂資料
->    + [LLM Lab](https://hackmd.io/@kennyliou/BytaGsk7T))
+>    + [LLM Lab](https://hackmd.io/@kennyliou/BytaGsk7T)
 >    + [Workshop](https://hackmd.io/@yillkid/H1gWjpwR6/https%3A%2F%2Fhackmd.io%2F%40yillkid%2FS1z501O0T) 
 >* 補充資料
 >    + [ChapGPT](https://chatgpt.com/c/0ade07a1-6fbd-4062-afde-96518cf8d816)
