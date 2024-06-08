@@ -15,6 +15,6 @@
 >* 補充資料
 >    + [ChatGPT](https://chatgpt.com/c/0ade07a1-6fbd-4062-afde-96518cf8d816)
 ## 專題連結區
->*   [「時間管理大師」簡報](https://www.canva.com/design/DAFTevxdOJU/BmMPWUp7GXiSUIrvhN1HbQ/view?utm_content=DAFTevxdOJU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
->*   [Figma呈現](https://www.figma.com/proto/m9mNtW9XAqA1BekJqKzIre/time-master?node-id=0%3A1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=6%3A17)
->*   [影片呈現](https://youtu.be/M8SUFAvh5HQ)
+>*   [專題PPT](https://www.canva.com/design/DAGDJFIcl9M/b9Ud5U-D2KIy8vhAlNLvzQ/edit?utm_content=DAGDJFIcl9M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+>*   [實作過程](https://colab.research.google.com/drive/1PGRkGe_Pj9mGePHu_de3hOsz_6pHqKYb#scrollTo=N7N3q47heZ24)
+>*   [結果呈現](https://docs.google.com/spreadsheets/d/16NhAOWn_yq4i3WssKDXiHmqfN6mCyzqN6O7jFXVFqeQ/edit#gid=0) 
