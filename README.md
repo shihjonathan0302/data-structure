@@ -1,13 +1,15 @@
-# 111-1師大科技系程式語言
+# 112-2師大科技系資料結構
 ## 課程資訊
 >* 授課教師: [蔡芸琤老師](https://github.com/pecu?tab=repositories)
 >* 姓名: [施宏儒](https://shihjonathan0302.github.io/Web/web1/)
 >* 系級: [科技系3年級](https://www.tahrd.ntnu.edu.tw)
 ## 課程筆記區
+>* 課堂PPT
+>    + [課程簡介 & 資料結構與 AI 的關係](https://docs.google.com/presentation/d/e/2PACX1vS_11f3KIeNeqmInAKfHaDzOTxK_ff05aI3H3hanLX1qI6Z8iHhbOfqEUgl3Gzx3s1pYtjIZcdzECSP/pub)
+>    + 
 >* 課堂任務
 >    + [Python基礎1](https://github.com/shihjonathan0302/PL/blob/main/Python_基礎1.ipynb)
->* 課堂PPT
->    + [第一週](https://docs.google.com/presentation/d/e/2PACX-1vS_11f3KIeNeqmInAKfHaDzOTxK_ff05aI3H3hanLX1qI6Z8iHhbOfqEUgl3Gzx3s1pYtjIZcdzECSP/pub?start=false&loop=false&delayms=3000&slide=id.p)
+start=false&loop=false&delayms=3000&slide=id.p)
 >* 課堂資料
 >    + [Python_基礎組合一](https://github.com/pecu/LawTech/tree/main/Learning-Materials/C1_Python_基礎_01)
 >* 補充資料
