@@ -13,7 +13,7 @@
 >    + [LLM Lab](https://hackmd.io/@kennyliou/BytaGsk7T)
 >    + [Workshop](https://hackmd.io/@yillkid/H1gWjpwR6/https%3A%2F%2Fhackmd.io%2F%40yillkid%2FS1z501O0T) 
 >* 補充資料
->    + [ChapGPT](https://chatgpt.com/c/0ade07a1-6fbd-4062-afde-96518cf8d816)
+>    + [ChatGPT](https://chatgpt.com/c/0ade07a1-6fbd-4062-afde-96518cf8d816)
 ## 專題連結區
 >*   [「時間管理大師」簡報](https://www.canva.com/design/DAFTevxdOJU/BmMPWUp7GXiSUIrvhN1HbQ/view?utm_content=DAFTevxdOJU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 >*   [Figma呈現](https://www.figma.com/proto/m9mNtW9XAqA1BekJqKzIre/time-master?node-id=0%3A1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=6%3A17)
